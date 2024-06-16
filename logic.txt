@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ultimate Ears Boom 3",
+        "link": "https://www.smart.md/ru/boxa-portabila-ultimate-ears-boom-3-bluetooth-rezistenta-la-apa-ip67-rosu-charging-dock-power-up-inclus"
+    },
+    {
+        "name": "JBL Flip 5",
+        "link": "https://www.smart.md/boxa-portabila-jbl-flip-5-negru"
+    },
+    {
+        "name": "Bose SoundLink Revolve",
+        "link": "https://www.smart.md/boxa-portabila-bose-soundlink-revolve-ii-black"
+    }
+]

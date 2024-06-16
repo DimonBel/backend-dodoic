@@ -1,0 +1,30 @@
+{
+    "Sound Quality": [
+        "Basic",
+        "Good",
+        "Excellent"
+    ],
+    "Connectivity Options": [
+        "Bluetooth",
+        "Wi-Fi",
+        "Wired",
+        "Multi-device"
+    ],
+    "Portability": [
+        "Small",
+        "Medium",
+        "Large"
+    ],
+    "Battery Life": [
+        "4 hours",
+        "8 hours",
+        "12 hours",
+        "24 hours"
+    ],
+    "helpinfo": [
+        "Sound Quality: How good the sound is, ranging from basic to excellent.",
+        "Connectivity Options: Types of connections available like Bluetooth, Wi-Fi, wired, etc.",
+        "Portability: Size and ease of carrying, from small to large.",
+        "Battery Life: How long the speaker lasts on a single charge, from 4 to 24 hours."
+    ]
+}

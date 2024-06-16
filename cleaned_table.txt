@@ -1,0 +1,1441 @@
+<table class="compare-table compare-table-w2 compare-table-wvs" id="compare_table">
+ <thead>
+  <tr class="compare-top-actions-row">
+   <th class="compare-fixed-column">
+    <div class="compare-top-actions">
+     <div class="d-flex align-items-center justify-content-center" style="position: absolute;top: 4px;width: 100%;">
+     </div>
+    </div>
+   </th>
+   <th data-idgood="2563460">
+    <div class="compare-top-actions">
+     <span class="addto-wishlist heart-empty heart_2563460" jcontainer="body" jheight="fit" jid="hqrbtv7hhel" jsource="https://ek.ua/en/mtools/mui_add_good_2_ul.php?self_=hqrbtv7hhel&amp;idg_=2563460&amp;ul_add_type_=Fav&amp;ul_name_=Comparison+Xiaomi+14+512%26nbsp%3BGB+%2F+16%26nbsp%3BGB+vs+Xiaomi+Redmi+Note+13+Pro+Plus+256%26nbsp%3BGB+%2F+12%26nbsp%3BGB" jstyle="white" jsub="Y" jtype="click" jwidth="370px" tabindex="-1" title="Add to List">
+     </span>
+     <div class="d-flex align-items-center justify-content-center" style="position: absolute;top: 0;width: 100%;">
+      <div class="compare-action-move">
+      </div>
+     </div>
+    </div>
+   </th>
+   <th data-idgood="2538633">
+    <div class="compare-top-actions">
+     <span class="addto-wishlist heart-empty heart_2538633" jcontainer="body" jheight="fit" jid="hqrbtv7hj7l" jsource="https://ek.ua/en/mtools/mui_add_good_2_ul.php?self_=hqrbtv7hj7l&amp;idg_=2538633&amp;ul_add_type_=Fav&amp;ul_name_=Comparison+Xiaomi+14+512%26nbsp%3BGB+%2F+16%26nbsp%3BGB+vs+Xiaomi+Redmi+Note+13+Pro+Plus+256%26nbsp%3BGB+%2F+12%26nbsp%3BGB" jstyle="white" jsub="Y" jtype="click" jwidth="370px" tabindex="-1" title="Add to List">
+     </span>
+     <div class="d-flex align-items-center justify-content-center" style="position: absolute;top: 0;width: 100%;">
+      <div class="compare-action-move">
+      </div>
+     </div>
+    </div>
+   </th>
+  </tr>
+  <tr>
+   <th class="compare-fixed-column compare-add-model" rowspan="3">
+    <div class="compare-add-model-label" onclick="$('#hqrbtv7heal').triggerHandler('show', [this])">
+     Add to comparison
+    </div>
+   </th>
+   <th class="compare-model-img" data-idgood="2563460">
+    <div class="ib h" onclick="window.id_good = 2563460; $.prettyPhoto.open_pg('https://s.ek.ua/jpg_zoom1/2563460.jpg', 'Xiaomi 14 512 GB / 16 GB', '');" style="position: relative;" title="Increase">
+     <div class="list-zoomer">
+     </div>
+     <img alt="Xiaomi 14 512 GB / 16 GB" height="120" src="https://s.ek.ua/jpg_120/2563460.jpg" srcset="https://s.ek.ua/jpg/2563460.jpg 1.6x" width="92"/>
+    </div>
+   </th>
+   <th class="compare-model-img" data-idgood="2538633">
+    <div class="ib h" onclick="window.id_good = 2538633; $.prettyPhoto.open_pg('https://s.ek.ua/jpg_zoom1/2538633.jpg', 'Xiaomi Redmi Note 13 Pro Plus 256 GB / 12 GB', '');" style="position: relative;" title="Increase">
+     <div class="list-zoomer">
+     </div>
+     <img alt="Xiaomi Redmi Note 13 Pro Plus 256 GB / 12 GB" height="120" src="https://s.ek.ua/jpg_120/2538633.jpg" srcset="https://s.ek.ua/jpg/2538633.jpg 1.6x" width="95"/>
+    </div>
+   </th>
+  </tr>
+  <tr>
+   <th class="compare-model-name" data-idgood="2563460">
+    <a data-idgood="2563460">
+     Xiaomi 14
+     <span class="item-conf-name ib nobr">
+      512 GB / 16 GB
+     </span>
+    </a>
+   </th>
+   <th class="compare-model-name" data-idgood="2538633">
+    <a data-idgood="2538633">
+     Xiaomi Redmi Note 13 Pro Plus
+     <span class="item-conf-name ib nobr">
+      256 GB / 12 GB
+     </span>
+    </a>
+   </th>
+  </tr>
+  <tr>
+  </tr>
+ </thead>
+ <tbody>
+  <tr class="compare-filter-row">
+   <th class="compare-fixed-column">
+    <div class="compare-filter-block-wrap">
+     <div class="compare-filter-block">
+      <div>
+       <div class="compare-filter-sort">
+       </div>
+      </div>
+     </div>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <th class="compare-fixed-column compare-property-name">
+    User reviews
+   </th>
+   <td class="compare-property-value" style="position: relative;">
+   </td>
+   <td class="compare-property-value" style="position: relative;">
+    <div style="position:absolute; top: 10.5px;">
+     <a class="small-faces l-f-1" link="/en/ek-item.php?idg_=2538633&amp;view_=review&amp;f_grade_=-2" title="Negative reviews (1)">
+      <sub>
+       1
+      </sub>
+     </a>
+     <div class="small-faces l-f-2 opacity-0">
+      <sub>
+       0
+      </sub>
+     </div>
+     <div class="small-faces l-f-3 opacity-0">
+      <sub>
+       0
+      </sub>
+     </div>
+     <div class="small-faces l-f-4 opacity-0">
+      <sub>
+       0
+      </sub>
+     </div>
+    </div>
+   </td>
+  </tr>
+  <tr>
+   <th class="compare-fixed-column compare-property-name">
+    TOP sellers
+   </th>
+   <td class="compare-property-value" style="overflow: hidden;">
+    <div class="table compare-top-shop">
+     <div class="table-row">
+      <div class="table-cell va-m compare-top-shop-name">
+       <div class="sn-div2">
+        <div class="sn-shadow">
+        </div>
+       </div>
+      </div>
+      <div class="table-cell va-m compare-top-shop-price">
+      </div>
+      <div class="table-cell va-m compare-top-shop-logo">
+      </div>
+      <div class="table-cell va-m compare-top-shop-btn">
+      </div>
+     </div>
+     <div class="table-row">
+      <div class="table-cell va-m compare-top-shop-name">
+       <div class="sn-div2">
+        <div class="sn-shadow">
+        </div>
+       </div>
+      </div>
+      <div class="table-cell va-m compare-top-shop-price">
+      </div>
+      <div class="table-cell va-m compare-top-shop-logo">
+      </div>
+      <div class="table-cell va-m compare-top-shop-btn">
+      </div>
+     </div>
+    </div>
+   </td>
+   <td class="compare-property-value" style="overflow: hidden;">
+    <div class="table compare-top-shop">
+     <div class="table-row">
+      <div class="table-cell va-m compare-top-shop-name">
+       <div class="sn-div2">
+        <div class="sn-shadow">
+        </div>
+       </div>
+      </div>
+      <div class="table-cell va-m compare-top-shop-price">
+      </div>
+      <div class="table-cell va-m compare-top-shop-logo">
+      </div>
+      <div class="table-cell va-m compare-top-shop-btn">
+      </div>
+     </div>
+    </div>
+   </td>
+  </tr>
+  <tr>
+   <th class="compare-fixed-column compare-property-name">
+    Main
+   </th>
+   <td class="compare-property-value">
+   </td>
+   <td class="compare-property-value">
+    <div class="compare-property-note-features">
+     Graphite heat transfer plates. RAM expansion function up to 8 GB.
+    </div>
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r10668">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r2849,r28690,r16327,r28689');">
+      Display
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr id="r2849">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p2849" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=2849" jsub="Y" jtype="click">
+     Main
+     <span class="nobr">
+      display
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c2849-2563460">
+    <div>
+     6.73 "
+    </div>
+    <div>
+     3200х1440 (20:9)
+    </div>
+    <div>
+     <span class="compare-cool-property">
+      521 ppi
+     </span>
+    </div>
+    <div>
+     AMOLED (LTPO)
+    </div>
+    <div>
+     120 Hz
+    </div>
+    <div>
+     HDR10+, Dolby Vision
+    </div>
+    <div>
+    </div>
+    <div>
+     rounded screen edges
+    </div>
+    <div>
+     Gorilla Glass Victus
+    </div>
+   </td>
+   <td class="compare-property-value" id="c2849-2538633">
+    <div>
+     6.67 "
+    </div>
+    <div>
+     2400x1080 (20:9)
+    </div>
+    <div>
+     395 ppi
+    </div>
+    <div>
+     AMOLED
+    </div>
+    <div>
+     120 Hz
+    </div>
+    <div>
+    </div>
+    <div>
+     DC Dimming support
+    </div>
+    <div>
+    </div>
+    <div>
+     Gorilla Glass v5
+    </div>
+   </td>
+  </tr>
+  <tr id="r28690">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p28690" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=28690" jsub="Y" jtype="click">
+     <span class="nobr">
+      Brightness
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c28690-2563460">
+    до 3000 nit
+   </td>
+   <td class="compare-property-value" id="c28690-2538633">
+    500 nit
+   </td>
+  </tr>
+  <tr id="r16327">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p16327" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=16327" jsub="Y" jtype="click">
+     Display-to-body
+     <span class="nobr">
+      ratio
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value compare-cool-property" id="c16327-2563460">
+    90 %
+   </td>
+   <td class="compare-property-value" id="c16327-2538633">
+    89 %
+   </td>
+  </tr>
+  <tr class="compare-dif-row" id="r28689">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p28689" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=28689" jsub="Y" jtype="click">
+     <span class="nobr">
+      DCI-P3
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c28689-2563460">
+    <img alt="" border="0" class="prop-y" height="10" src="/img/icons/bul_141.gif" width="8"/>
+   </td>
+   <td class="compare-property-value" id="c28689-2538633">
+    <img alt="" border="0" class="prop-y" height="10" src="/img/icons/bul_141.gif" width="8"/>
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r2887">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r2885,r20937,r21454,r8394,r29476,r20930,r21455,r26708,r10735,r25761,r25878');">
+      Hardware
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr id="r2885">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p2885" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=2885" jsub="Y" jtype="click">
+     Operating
+     <span class="nobr">
+      system
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c2885-2563460">
+    Android 14
+   </td>
+   <td class="compare-property-value" id="c2885-2538633">
+    Android 13
+   </td>
+  </tr>
+  <tr id="r20937">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p20937" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=20937" jsub="Y" jtype="click">
+     CPU
+     <span class="nobr">
+      model
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c20937-2563460">
+    Snapdragon 8 Gen 3
+   </td>
+   <td class="compare-property-value" id="c20937-2538633">
+    Dimensity 6080
+   </td>
+  </tr>
+  <tr id="r21454">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p21454" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=21454" jsub="Y" jtype="click">
+     CPU
+     <span class="nobr">
+      frequency
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c21454-2563460">
+    3.3 GHz
+   </td>
+   <td class="compare-property-value" id="c21454-2538633">
+    2.4 GHz
+   </td>
+  </tr>
+  <tr class="compare-dif-row" id="r8394">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p8394" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=8394" jsub="Y" jtype="click">
+     CPU
+     <span class="nobr">
+      cores
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c8394-2563460">
+    8
+   </td>
+   <td class="compare-property-value" id="c8394-2538633">
+    8
+   </td>
+  </tr>
+  <tr id="r29476">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p29476" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=29476" jsub="Y" jtype="click">
+     Processor rating
+     <span class="nobr">
+      AnTuTu
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c29476-2563460">
+   </td>
+   <td class="compare-property-value compare-cool-property" id="c29476-2538633">
+    20
+   </td>
+  </tr>
+  <tr id="r20930">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p20930" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=20930" jsub="Y" jtype="click">
+     <span class="nobr">
+      GPU
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c20930-2563460">
+    Adreno 750
+   </td>
+   <td class="compare-property-value" id="c20930-2538633">
+    ARM Mali-G57 MC2
+   </td>
+  </tr>
+  <tr id="r21455">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p21455" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=21455" jsub="Y" jtype="click">
+     <span class="nobr">
+      RAM
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value compare-cool-property" id="c21455-2563460">
+    16 GB
+   </td>
+   <td class="compare-property-value" id="c21455-2538633">
+    6 GB
+   </td>
+  </tr>
+  <tr id="r26708">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p26708" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=26708" jsub="Y" jtype="click">
+     RAM
+     <span class="nobr">
+      type
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c26708-2563460">
+    LPDDR5X
+   </td>
+   <td class="compare-property-value" id="c26708-2538633">
+    LPDDR4x
+   </td>
+  </tr>
+  <tr id="r10735">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p10735" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=10735" jsub="Y" jtype="click">
+     Memory
+     <span class="nobr">
+      storage
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value compare-cool-property" id="c10735-2563460">
+    1024 GB
+   </td>
+   <td class="compare-property-value" id="c10735-2538633">
+    128 GB
+   </td>
+  </tr>
+  <tr id="r25761">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25761" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25761" jsub="Y" jtype="click">
+     Storage
+     <span class="nobr">
+      type
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25761-2563460">
+    UFS 4.0
+   </td>
+   <td class="compare-property-value" id="c25761-2538633">
+    UFS 2.2
+   </td>
+  </tr>
+  <tr class="compare-dif-row" id="r25878">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25878" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25878" jsub="Y" jtype="click">
+     Memory card
+     <span class="nobr">
+      slot
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25878-2563460">
+    absent
+   </td>
+   <td class="compare-property-value" id="c25878-2538633">
+    absent
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r12842">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r12844,r24661,r30321');">
+      <span class="gloss" jcontainer="#r12842" jid="p12842" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=12842" jsub="Y" jtype="click">
+       Test
+       <span class="nobr">
+        results
+       </span>
+      </span>
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr id="r12844">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p12844" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=12844" jsub="Y" jtype="click">
+     AnTuTu
+     <span class="nobr">
+      Benchmark
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c12844-2563460">
+   </td>
+   <td class="compare-property-value compare-cool-property" id="c12844-2538633">
+    455421 score(s)
+   </td>
+  </tr>
+  <tr id="r24661">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p24661" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=24661" jsub="Y" jtype="click">
+     <span class="nobr">
+      Geekbench
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c24661-2563460">
+   </td>
+   <td class="compare-property-value compare-cool-property" id="c24661-2538633">
+    1978 score(s)
+   </td>
+  </tr>
+  <tr id="r30321">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p30321" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=30321" jsub="Y" jtype="click">
+     Wild Life
+     <span class="nobr">
+      (Extreme)
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c30321-2563460">
+   </td>
+   <td class="compare-property-value compare-cool-property" id="c30321-2538633">
+    1334 score(s)
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r2866">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r23623,r25643,r25648,r25645,r25639,r7620,r25191,r23617,r25968,r28076,r24907,r26010,r26246,r2868,r25024');">
+      Main camera
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr class="compare-dif-row" id="r23623">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p23623" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=23623" jsub="Y" jtype="click">
+     <span class="nobr">
+      Lenses
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c23623-2563460">
+    3 modules
+   </td>
+   <td class="compare-property-value" id="c23623-2538633">
+    3 modules
+   </td>
+  </tr>
+  <tr id="r25643">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25643" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25643" jsub="Y" jtype="click">
+     Main
+     <span class="nobr">
+      lens
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25643-2563460">
+    <div>
+     50 MP
+    </div>
+    <div>
+     f/1.4 - f/4.0
+    </div>
+    <div>
+     23 mm
+    </div>
+    <div>
+     1/1.31"
+    </div>
+   </td>
+   <td class="compare-property-value" id="c25643-2538633">
+    <div>
+     <span class="compare-cool-property">
+      108 MP
+     </span>
+    </div>
+    <div>
+     f/1.7
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+   </td>
+  </tr>
+  <tr id="r25648">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25648" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25648" jsub="Y" jtype="click">
+     Ultra wide
+     <span class="nobr">
+      lens
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25648-2563460">
+    <div>
+     50 MP
+    </div>
+    <div>
+     f/2.2
+    </div>
+    <div>
+     14 mm
+    </div>
+    <div>
+     115 °
+    </div>
+   </td>
+   <td class="compare-property-value" id="c25648-2538633">
+    <div>
+     8 MP
+    </div>
+    <div>
+     f/2.2
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+   </td>
+  </tr>
+  <tr id="r25645">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25645" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25645" jsub="Y" jtype="click">
+     Telephoto
+     <span class="nobr">
+      lens
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25645-2563460">
+    <div>
+     50 MP
+    </div>
+    <div>
+     f/2.0
+    </div>
+    <div>
+     75 mm
+    </div>
+   </td>
+   <td class="compare-property-value" id="c25645-2538633">
+    <div>
+    </div>
+    <div>
+    </div>
+    <div>
+    </div>
+   </td>
+  </tr>
+  <tr id="r25639">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25639" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25639" jsub="Y" jtype="click">
+     Macro
+     <span class="nobr">
+      lens
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25639-2563460">
+    <img alt="" border="0" class="prop-n" height="10" src="/img/table-none-1.gif" width="8"/>
+   </td>
+   <td class="compare-property-value" id="c25639-2538633">
+    <div class="compare-property-value-comment-wrap ellipsis">
+     <img alt="" border="0" class="prop-y" height="10" src="/img/icons/bul_141.gif" width="8"/>
+     <span class="compare-property-value-comment">
+      /2 MP, f/2.4/
+     </span>
+    </div>
+   </td>
+  </tr>
+  <tr id="r7620">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p7620" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=7620" jsub="Y" jtype="click">
+     Full HD
+     <span class="nobr">
+      (1080p)
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c7620-2563460">
+    60 fps
+   </td>
+   <td class="compare-property-value" id="c7620-2538633">
+    30 fps
+   </td>
+  </tr>
+  <tr id="r25191">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25191" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25191" jsub="Y" jtype="click">
+     Slow motion
+     <span class="nobr">
+      (slow-mo)
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25191-2563460">
+    <div class="compare-property-value-comment-wrap ellipsis">
+     1920 fps
+     <span class="compare-property-value-comment">
+      /720р/
+     </span>
+    </div>
+   </td>
+   <td class="compare-property-value" id="c25191-2538633">
+   </td>
+  </tr>
+  <tr id="r23617">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p23617" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=23617" jsub="Y" jtype="click">
+     <span class="nobr">
+      4K
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c23617-2563460">
+    60 fps
+   </td>
+   <td class="compare-property-value" id="c23617-2538633">
+   </td>
+  </tr>
+  <tr id="r25968">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25968" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25968" jsub="Y" jtype="click">
+     &gt;
+     <span class="nobr">
+      4K
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25968-2563460">
+    7680x4320, 24 fps
+   </td>
+   <td class="compare-property-value" id="c25968-2538633">
+   </td>
+  </tr>
+  <tr id="r28076">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p28076" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=28076" jsub="Y" jtype="click">
+     Image
+     <span class="nobr">
+      stabilization
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c28076-2563460">
+    optical
+   </td>
+   <td class="compare-property-value" id="c28076-2538633">
+   </td>
+  </tr>
+  <tr id="r24907">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p24907" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=24907" jsub="Y" jtype="click">
+     Optical
+     <span class="nobr">
+      zoom
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c24907-2563460">
+    <img alt="" border="0" class="prop-y" height="10" src="/img/icons/bul_141.gif" width="8"/>
+   </td>
+   <td class="compare-property-value" id="c24907-2538633">
+    <img alt="" border="0" class="prop-n" height="10" src="/img/table-none-1.gif" width="8"/>
+   </td>
+  </tr>
+  <tr id="r26010">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p26010" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=26010" jsub="Y" jtype="click">
+     Camera
+     <span class="nobr">
+      zoom
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c26010-2563460">
+    5.35 x
+   </td>
+   <td class="compare-property-value" id="c26010-2538633">
+   </td>
+  </tr>
+  <tr id="r26246">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p26246" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=26246" jsub="Y" jtype="click">
+     Claimed
+     <span class="nobr">
+      magnification
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c26246-2563460">
+    3.2 x
+   </td>
+   <td class="compare-property-value" id="c26246-2538633">
+   </td>
+  </tr>
+  <tr class="compare-dif-row" id="r2868">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p2868" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=2868" jsub="Y" jtype="click">
+     <span class="nobr">
+      Flash
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c2868-2563460">
+    <img alt="" border="0" class="prop-y" height="10" src="/img/icons/bul_141.gif" width="8"/>
+   </td>
+   <td class="compare-property-value" id="c2868-2538633">
+    <img alt="" border="0" class="prop-y" height="10" src="/img/icons/bul_141.gif" width="8"/>
+   </td>
+  </tr>
+  <tr id="r25024">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25024" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25024" jsub="Y" jtype="click">
+     DxOMark test
+     <span class="nobr">
+      (camera)
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25024-2563460">
+    130 score
+   </td>
+   <td class="compare-property-value" id="c25024-2538633">
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r25282">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r25207,r16651,r23628,r23624,r23625');">
+      Front camera
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr class="compare-dif-row" id="r25207">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25207" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25207" jsub="Y" jtype="click">
+     Form
+     <span class="nobr">
+      factor
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25207-2563460">
+    in display
+   </td>
+   <td class="compare-property-value" id="c25207-2538633">
+    in display
+   </td>
+  </tr>
+  <tr id="r16651">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p16651" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=16651" jsub="Y" jtype="click">
+     Main selfie
+     <span class="nobr">
+      lens
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c16651-2563460">
+    32 MP
+   </td>
+   <td class="compare-property-value" id="c16651-2538633">
+    16 MP
+   </td>
+  </tr>
+  <tr id="r23628">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p23628" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=23628" jsub="Y" jtype="click">
+     <span class="nobr">
+      Aperture
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c23628-2563460">
+   </td>
+   <td class="compare-property-value" id="c23628-2538633">
+    f/2.4
+   </td>
+  </tr>
+  <tr id="r23624">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p23624" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=23624" jsub="Y" jtype="click">
+     Full HD
+     <span class="nobr">
+      (1080p)
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c23624-2563460">
+    60 fps
+   </td>
+   <td class="compare-property-value" id="c23624-2538633">
+    30 fps
+   </td>
+  </tr>
+  <tr id="r23625">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p23625" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=23625" jsub="Y" jtype="click">
+     Ultra HD
+     <span class="nobr">
+      (4K)
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c23625-2563460">
+    60 fps
+   </td>
+   <td class="compare-property-value" id="c23625-2538633">
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r10667">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r3592,r8971,r9517,r2891,r7761');">
+      Connections and communication
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr id="r3592">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p3592" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=3592" jsub="Y" jtype="click">
+     Cellular
+     <span class="nobr">
+      technology
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c3592-2563460">
+    <div>
+     5G / 4G (LTE) / 3G / GSM
+    </div>
+    <div>
+     CDMA
+    </div>
+   </td>
+   <td class="compare-property-value" id="c3592-2538633">
+    <div>
+     5G / 4G (LTE) / 3G / GSM
+    </div>
+    <div>
+    </div>
+   </td>
+  </tr>
+  <tr id="r8971">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p8971" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=8971" jsub="Y" jtype="click">
+     SIM card
+     <span class="nobr">
+      type
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c8971-2563460">
+    nano+e-SIM
+   </td>
+   <td class="compare-property-value" id="c8971-2538633">
+    nano-SIM
+   </td>
+  </tr>
+  <tr class="compare-dif-row" id="r9517">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p9517" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=9517" jsub="Y" jtype="click">
+     SIM
+     <span class="nobr">
+      slots
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c9517-2563460">
+    2 SIM
+   </td>
+   <td class="compare-property-value" id="c9517-2538633">
+    2 SIM
+   </td>
+  </tr>
+  <tr id="r2891">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p2891" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=2891" jsub="Y" jtype="click">
+     Connectivity
+     <span class="nobr">
+      technology
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c2891-2563460">
+    <div>
+     Wi-Fi 7 (802.11be)
+    </div>
+    <div>
+     Bluetooth v 5.4
+    </div>
+    <div>
+     aptX Adaptive
+    </div>
+    <div>
+     NFC
+    </div>
+    <div>
+     IrDA
+    </div>
+   </td>
+   <td class="compare-property-value" id="c2891-2538633">
+    <div>
+     Wi-Fi 5 (802.11ac)
+    </div>
+    <div>
+     Bluetooth v 5.3
+    </div>
+    <div>
+    </div>
+    <div>
+     NFC
+    </div>
+    <div>
+     IrDA
+    </div>
+   </td>
+  </tr>
+  <tr id="r7761">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p7761" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=7761" jsub="Y" jtype="click">
+     Inputs &amp;
+     <span class="nobr">
+      outputs
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c7761-2563460">
+    <div>
+     USB C 3.2 gen2
+    </div>
+    <div>
+    </div>
+   </td>
+   <td class="compare-property-value" id="c7761-2538633">
+    <div>
+     USB C 2.0
+    </div>
+    <div>
+     mini-Jack (3.5 mm) top
+    </div>
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r10672">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r2917,r5440');">
+      Features and navigation
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr id="r2917">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p2917" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=2917" jsub="Y" jtype="click">
+     <span class="nobr">
+      Features
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c2917-2563460">
+    <div>
+     in-display fingerprint scanner
+    </div>
+    <div>
+     stereo
+    </div>
+    <div>
+     noise cancellation
+    </div>
+    <div>
+     gyroscope
+    </div>
+    <div>
+     light sensor
+    </div>
+   </td>
+   <td class="compare-property-value" id="c2917-2538633">
+    <div>
+     side fingerprint scanner
+    </div>
+    <div>
+     Dolby Atmos
+    </div>
+    <div>
+     noise cancellation
+    </div>
+    <div>
+     gyroscope
+    </div>
+    <div>
+     light sensor
+    </div>
+   </td>
+  </tr>
+  <tr id="r5440">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p5440" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=5440" jsub="Y" jtype="click">
+     <span class="nobr">
+      Navigation
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c5440-2563460">
+    <div>
+     aGPS
+    </div>
+    <div>
+     <div class="compare-property-value-comment-wrap ellipsis">
+      GPS module
+      <span class="compare-property-value-comment">
+       /BDS/
+      </span>
+     </div>
+    </div>
+    <div>
+     Dual GPS
+    </div>
+    <div>
+     GLONASS
+    </div>
+    <div>
+     Galileo
+    </div>
+    <div>
+     digital compass
+    </div>
+   </td>
+   <td class="compare-property-value" id="c5440-2538633">
+    <div>
+     aGPS
+    </div>
+    <div>
+     GPS module
+    </div>
+    <div>
+    </div>
+    <div>
+     GLONASS
+    </div>
+    <div>
+     Galileo
+    </div>
+    <div>
+     digital compass
+    </div>
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r2877">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r5460,r17466,r25491,r25492,r25678,r26014');">
+      Power supply
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr id="r5460">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p5460" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=5460" jsub="Y" jtype="click">
+     Battery
+     <span class="nobr">
+      capacity
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c5460-2563460">
+    4880 mAh
+   </td>
+   <td class="compare-property-value compare-cool-property" id="c5460-2538633">
+    5000 mAh
+   </td>
+  </tr>
+  <tr id="r17466">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p17466" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=17466" jsub="Y" jtype="click">
+     Fast
+     <span class="nobr">
+      charging
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c17466-2563460">
+    Quick Charge 4.0
+   </td>
+   <td class="compare-property-value" id="c17466-2538633">
+    Power Delivery 3.0
+   </td>
+  </tr>
+  <tr id="r25491">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25491" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25491" jsub="Y" jtype="click">
+     Charger
+     <span class="nobr">
+      power
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25491-2563460">
+    120 W
+   </td>
+   <td class="compare-property-value" id="c25491-2538633">
+    33 W
+   </td>
+  </tr>
+  <tr id="r25492">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25492" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25492" jsub="Y" jtype="click">
+     Fast charging
+     <span class="nobr">
+      time
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25492-2563460">
+    100% in 18 min
+   </td>
+   <td class="compare-property-value" id="c25492-2538633">
+   </td>
+  </tr>
+  <tr id="r25678">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p25678" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=25678" jsub="Y" jtype="click">
+     Wireless
+     <span class="nobr">
+      charging
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c25678-2563460">
+    50 W
+   </td>
+   <td class="compare-property-value" id="c25678-2538633">
+   </td>
+  </tr>
+  <tr id="r26014">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p26014" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=26014" jsub="Y" jtype="click">
+     Wireless reverse
+     <span class="nobr">
+      charging
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c26014-2563460">
+    <div class="compare-property-value-comment-wrap ellipsis">
+     <img alt="" border="0" class="prop-y" height="10" src="/img/icons/bul_141.gif" width="8"/>
+     <span class="compare-property-value-comment">
+      /10 W/
+     </span>
+    </div>
+   </td>
+   <td class="compare-property-value" id="c26014-2538633">
+    <img alt="" border="0" class="prop-n" height="10" src="/img/table-none-1.gif" width="8"/>
+   </td>
+  </tr>
+  <tr class="compare-group-name-row" id="r2873">
+   <th class="compare-fixed-column">
+    <div class="compare-group-name-wrap">
+     <span class="compare-group-name open" onclick="if (event.target === this) cmpTable.toggleGroup(this, 'r11579,r5326,r27302,r2875,r1208');">
+      General
+     </span>
+    </div>
+   </th>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr id="r11579">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p11579" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=11579" jsub="Y" jtype="click">
+     <span class="nobr">
+      Waterproof
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c11579-2563460">
+    IP68
+   </td>
+   <td class="compare-property-value" id="c11579-2538633">
+    IP54
+   </td>
+  </tr>
+  <tr id="r5326">
+   <th class="compare-fixed-column compare-property-name">
+    <span class="gloss" jcontainer="body" jid="p5326" jsource="https://ek.ua/en/mtools/mui_gloss.php?idGloss_=5326" jsub="Y" jtype="click">
+     Bezel/back cover
+     <span class="nobr">
+      material
+     </span>
+    </span>
+   </th>
+   <td class="compare-property-value" id="c5326-2563460">
+    metal/glass
+   </td>
+   <td class="compare-property-value" id="c5326-2538633">
+    plastic
+   </td>
+  </tr>
+  <tr class="compare-dif-row" id="r27302">
+   <th class="compare-fixed-column compare-property-name">
+    What's in the box?
+   </th>
+   <td class="compare-property-value" id="c27302-2563460">
+    <div>
+     case
+    </div>
+    <div>
+     charger
+    </div>
+   </td>
+   <td class="compare-property-value" id="c27302-2538633">
+    <div>
+     case
+    </div>
+    <div>
+     charger
+    </div>
+   </td>
+  </tr>
+  <tr id="r2875">
+   <th class="compare-fixed-column compare-property-name">
+    Dimensions (HxWxD)
+   </th>
+   <td class="compare-property-value" id="c2875-2563460">
+    161.4x75.3x8.5 mm
+   </td>
+   <td class="compare-property-value" id="c2875-2538633">
+    161.11x74.95x7.6 mm
+   </td>
+  </tr>
+  <tr id="r1208">
+   <th class="compare-fixed-column compare-property-name">
+    Weight
+   </th>
+   <td class="compare-property-value" id="c1208-2563460">
+    223 g
+   </td>
+   <td class="compare-property-value compare-cool-property" id="c1208-2538633">
+    174 g
+   </td>
+  </tr>
+  <tr>
+   <th class="compare-fixed-column compare-property-name">
+    Color
+   </th>
+   <td class="compare-property-value">
+    <div class="compare-property-colors-plate clearfix">
+     <div class="c-d c-d-11 ib" style="background-color: #66b034;" title="green">
+     </div>
+     <div class="c-d c-d-23 ib" style="background-color: #000000;" title="black">
+     </div>
+    </div>
+   </td>
+   <td class="compare-property-value">
+    <div class="compare-property-colors-plate clearfix">
+     <div class="c-d c-d-23 ib" style="background-color: #000000;" title="black">
+     </div>
+     <div class="c-d c-d-5 ib" style="background-color: #fff; border: 1px solid #aaa;" title="white">
+     </div>
+     <div class="c-d c-d-9 ib" style="background-color: #4169E1;" title="blue">
+     </div>
+    </div>
+   </td>
+  </tr>
+  <tr>
+   <th class="compare-fixed-column compare-property-name">
+    Added to E-Catalog
+   </th>
+   <td class="compare-property-value">
+    october 2023
+   </td>
+   <td class="compare-property-value">
+    september 2023
+   </td>
+  </tr>
+ </tbody>
+</table>
